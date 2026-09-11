@@ -6,6 +6,12 @@
     "main"
   ],
   "permissions": [
-    "core:default"
+    "core:default",
+    "deep-link:default",
+    "fs:default",
+    "dialog:default",
+    "log:default",
+    "sql:default",
+    "store:default"
   ]
 }
